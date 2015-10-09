@@ -1,7 +1,7 @@
-# Yaroslavl Frontend Meetup
+# Kostroma Backend Meetup
 
-[![Join the chat at https://gitter.im/yarfrontend/yarfrontend.github.io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/yarfrontend/yarfrontend.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/VadimIpatov/VadimIpatov.github.io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/VadimIpatov/VadimIpatov.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Ежемесячная встреча веб-разработчиков проходящая в г. Ярославле.
+Регулярная встреча backend-разработчиков и системных администраторов, проходящая в г. Костроме.
 
-[http://yarfrontend.ru](http://yarfrontend.ru/)
+[http://kosbackend.hub44.net](http://kosbackend.hub44.net/)
