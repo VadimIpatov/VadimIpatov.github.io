@@ -1,13 +1,13 @@
 ---
 layout: promo
-title: 30 сентября 2015
+title: XX ноября 2015
 excerpt: 
 comments: 
 ---
 
 
-<h1>Yaroslavl Frontend Meetup #<span id="num"></span></h1>
-<p id="hashtag">#yarfrontend</p>
+<h1>Kostroma Backend Meetup #<span id="num"></span></h1>
+<p id="hashtag">#kosbackend</p>
 <p>WiFi SSID: <span id="wifi">Foo</span></p>
 <p>WiFi Password: <span id="password">Bar</span></p>
 
