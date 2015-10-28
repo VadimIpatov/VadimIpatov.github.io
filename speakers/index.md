@@ -9,7 +9,7 @@ comments: true
 
 Хотите выступить? Дайте нам знать!
 
-<form action="http://getsimpleform.com/messages?form_api_token=2e9c438668c9b50479edcbba97b8e85d" method="post">
+<form action="http://getsimpleform.com/messages?form_api_token=64423d75fb4981e03fc6718d53dbda5e" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='http://kosbackend.hub44.net/speakers/thank-you.html' />
   <!-- all your input fields here.... -->
