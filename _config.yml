@@ -3,7 +3,7 @@
 title: Kostroma Backend Meetup
 locale: ru_RU
 description: Место встречи Костромских backend-разработчиков и системных администраторов
-logo: site-logo.svg
+logo: site-logo.png
 search: true
 url: http://kosbackend.hub44.net/
 url: http://vadimipatov.github.io/
@@ -37,11 +37,11 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Kostroma Backend Meetup
   avatar: bio-photo.jpg
-  email: mail@yarfrontend.ru
-  disqus-shortname: yfrontend
-  twitter: yarfrontend
-  facebook: groups/747177005310144/
-  vk: club62494748
+  email: euphoria.vi@gmail.com
+  disqus-shortname: kosbackend
+  twitter: kosbackend
+  #facebook: groups/747177005310144/
+  vk: itcommunity44
   github:
   stackexchange: 
   linkedin: #username

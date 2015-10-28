@@ -11,7 +11,7 @@ comments: true
 
 <form action="http://getsimpleform.com/messages?form_api_token=2e9c438668c9b50479edcbba97b8e85d" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='http://yarfrontend.ru/speakers/thank-you.html' />
+  <input type='hidden' name='redirect_to' value='http://kosbackend.hub44.net/speakers/thank-you.html' />
   <!-- all your input fields here.... -->
   <label for='name'>Ваше имя</label>
   <input type='text' name='name' id='name' required=""/>

@@ -12,7 +12,7 @@ comments: true
 
 <form action="http://getsimpleform.com/messages?form_api_token=2e9c438668c9b50479edcbba97b8e85d" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='http://yarfrontend.ru/register/thank-you.html' />
+  <input type='hidden' name='redirect_to' value='http://kosbackend.hub44.net/register/thank-you.html' />
   <!-- all your input fields here.... -->
   <label for='name'>Имя</label>
   <input type='text' name='name' id='name' required=""/>
