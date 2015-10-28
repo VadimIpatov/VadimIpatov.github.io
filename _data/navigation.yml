@@ -12,8 +12,8 @@
 - title: Люди
   url: /people/
 
-- title: Встречи
-  url: /events/
+#- title: Встречи
+#  url: /events/
 
 - title: Послушать
   url: /register/
