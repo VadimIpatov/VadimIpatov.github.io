@@ -4,7 +4,7 @@ vadimipatov:
   name: Вадим Ипатов
   email: euphoria.vi@gmail.com
   avatar: vadimipatov.jpg
-  company: Тензор
+  company: Тензор, Кострома
   vk: ipatov_vadim
   bio: "Разработчик системы мониторинга sbis3mon в компании Тензор."
 
@@ -12,7 +12,7 @@ dnska:
   name: Николай Дружинин
   email: n.druzhinin@it-kostroma.ru
   avatar: dnska.jpg
-  company: IT-Pro
+  company: IT-Pro, Кострома
   vk: id22519100
   bio: "Технический директор компании ИТ-Профессионал."
 
@@ -20,7 +20,7 @@ olegas:
   name: Олег Елифантьев
   email: oleg@elifantiev.ru
   avatar: olegas.jpg
-  company: Тензор
+  company: Тензор, Ярославль
   twitter: oelifantiev
   github: Olegas
   bio: "Разработчик ядра веб-платформы в компании Тензор."
@@ -28,11 +28,11 @@ olegas:
 lexaguskov:
   name: Алексей Гуськов
   avatar: lexaguskov.jpg
-  company: Ареал
+  company: А-реал Консалтинг, Ярославль
   twitter: lexaguskov
 
 chernyatiev:
   name: Александр Чернятьев
   avatar: chernyatiev.jpg
-  company: ИБЭС
+  company: ИБЭС, Кострома
   vk: achernyatyev
