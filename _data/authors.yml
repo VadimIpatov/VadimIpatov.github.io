@@ -8,6 +8,14 @@ vadimipatov:
   vk: ipatov_vadim
   bio: "Разработчик системы мониторинга sbis3mon в компании Тензор."
 
+dnska:
+  name: Николай Дружинин
+  email: n.druzhinin@it-kostroma.ru
+  avatar: dnska.jpg
+  company: IT-Pro
+  vk: id22519100
+  bio: "Технический директор компании ИТ-Профессионал."
+
 olegas:
   name: Олег Елифантьев
   email: oleg@elifantiev.ru
@@ -22,14 +30,6 @@ lexaguskov:
   avatar: lexaguskov.jpg
   company: Ареал
   twitter: lexaguskov
-
-dnska:
-  name: Николай Дружинин
-  email: n.druzhinin@it-kostroma.ru
-  avatar: dnska.jpg
-  company: IT-Pro
-  vk: id22519100
-  bio: "Технический директор компании ИТ-Профессионал."
 
 chernyatiev:
   name: Александр Чернятьев
