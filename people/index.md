@@ -17,12 +17,12 @@ comments: true
       {% endif %}
       {% if author.twitter %}
       <span class="social-share-twitter">
-        <a href="https://twitter.com/{{ author.twitter }}"><i class="fa fa-twitter-square"></i> {{ author.twitter }}</a>
+        <a target="_blank"  href="https://twitter.com/{{ author.twitter }}"><i class="fa fa-twitter-square"></i> {{ author.twitter }}</a>
       </span>
       {% endif %}
       {% if author.vk %}
       <span class="social-share-vk">
-        <a href="https://vk.com/{{ author.vk }}"><i class="fa fa-vk"></i> {{ author.vk }}</a>
+        <a target="_blank" href="https://vk.com/{{ author.vk }}"><i class="fa fa-vk"></i> {{ author.vk }}</a>
       </span>
       {% endif %}      
       {% if author.github %}
