@@ -9,7 +9,7 @@ tags: [it, kostroma, community]
 image:
   feature:
 talk: meetup0
-date: 2015-11-31T18:00:00+04:00
+date: 2015-11-21T14:00:00+04:00
 comments: true
 share: true
 announce: true 
