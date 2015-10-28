@@ -10,7 +10,7 @@ comments: true
 нам лучше спланировать мероприятие, а также лучше узнать наших гостей и в будущем подготовить больше интересных докладов.
 
 
-<form action="http://getsimpleform.com/messages?form_api_token=2e9c438668c9b50479edcbba97b8e85d" method="post">
+<form action="http://getsimpleform.com/messages?form_api_token=64423d75fb4981e03fc6718d53dbda5e" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='http://kosbackend.hub44.net/register/thank-you.html' />
   <!-- all your input fields here.... -->
