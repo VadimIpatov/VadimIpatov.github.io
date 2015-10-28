@@ -1,37 +1,9 @@
+meetup0:
+  date: 2015-11-21
+  info: "Первый Костромской backend-meetup"
+  finished: false
+
 meetup1:
-  date: 2014-12-10
-  info: "Первый Ярославский frontend-meetup прошел новом офисе компании Тензор, любезно предоставившей для проведения мероприятия свой конференц-зал."
+  date: 2016-01-23
   finished: true
-
-meetup2:
-  date: 2015-01-28
-  finished: true
-  info: "Вторая встреча Ярославских фронтэнд-разработчиков прошла в последнюю среду января 2015. В программе &mdash; 3 доклада. Мероприятие посетило более 60 человек."
-
-meetup3:
-  date: 2015-02-25
-  finished: true
-
-meetup4:
-  date: 2015-03-25
-  finished: true
-
-meetup5:
-  date: 2015-05-27
-  finished: true
-
-meetup6:
-  date: 2015-06-26
-  finished: true
-
-meetup7:
-  date: 2015-07-31
-  finished: true
-
-meetup8:
-  date: 2015-08-26
-  finished: true
-
-meetup9:
-  date: 2015-09-30
-  finished:
+  info: ""
