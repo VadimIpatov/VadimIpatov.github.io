@@ -39,7 +39,7 @@ owner:
   avatar: bio-photo.jpg
   email: euphoria.vi@gmail.com
   disqus-shortname: kosbackend
-  twitter: kosbackend
+  #twitter: kosbackend
   #facebook: groups/747177005310144/
   vk: itcommunity44
   github:
@@ -49,10 +49,10 @@ owner:
   flickr: #username
   tumblr: #username
   google:
-    plus: u/0/communities/112603924039516486456
-    analytics: UA-57195678-1
-    verify: XWSk1ZeYo1J09zaC13q5DFaUDHPNqLd48WPm8RlqcpY
-    ad-client: ca-pub-0572589679533084
-    ad-slot: 4947240443
+    plus: u/0/communities/108981293393748913369
+    #analytics: UA-57195678-1
+    #verify: XWSk1ZeYo1J09zaC13q5DFaUDHPNqLd48WPm8RlqcpY
+    #ad-client: ca-pub-0572589679533084
+    #ad-slot: 4947240443
   bing-verify:
-  yandex-verify: 5817141bbc5b0790
+  #yandex-verify: 5817141bbc5b0790
