@@ -1,6 +1,6 @@
 ---
 layout: promo
-title: XX ноября 2015
+title: Kostroma Backend Meetup
 excerpt: 
 comments: 
 ---
