@@ -15,8 +15,8 @@
 #- title: Встречи
 #  url: /events/
 
-- title: Послушать
+- title: Регистрация
   url: /register/
 
-- title: Выступить
+- title: Предложить доклад
   url: /speakers/
