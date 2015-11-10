@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//www.marudot.com//iCal Event Maker
-X-WR-CALNAME:Kostroma Backend Meetup #0
+X-WR-CALNAME:Kostroma Backend Meetup
 CALSCALE:GREGORIAN
 BEGIN:VTIMEZONE
 TZID:Europe/Moscow
