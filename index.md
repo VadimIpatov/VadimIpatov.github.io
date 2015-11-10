@@ -35,6 +35,7 @@ comments: true
 Чтобы мы могли оценить количество участников, пожалуйста, [зарегистрируйтесь][register].
 
 <p><a class="fa fa-calendar" href="webcal://kosbackend.hub44.net/register/kosbackend.ics"> Создать напоминание в календаре</a></p>
+
 Где
 ---
 
