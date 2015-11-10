@@ -27,4 +27,6 @@ comments: true
   <p>
   	<input type='submit' value='Подать заявку' class='btn' />
   </p>
+  <br>
+  <p><a class="fa fa-calendar" href="webcal://kosbackend.hub44.net/register/kosbackend.ics"> Создать напоминание в календаре</a></p>
 </form>
