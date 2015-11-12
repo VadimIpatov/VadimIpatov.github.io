@@ -22,8 +22,6 @@ comments: true
   <input type='email' name='email' id='email' required="" />
   <label for='work'>Место работы/учебы</label>
   <input type='text' name='work' id='work' required="" />
-  <label for='about'>Пара строк о себе (профессиональные интересы, etc...)</label>
-  <textarea name='about' id='about' rows='8'></textarea>
   <p>
   	<input type='submit' value='Подать заявку' class='btn' />
   </p>
