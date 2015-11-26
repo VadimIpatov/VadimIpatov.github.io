@@ -24,4 +24,4 @@ slides:
 * Система образования в регионе — работа на "экспорт"
 * Рецепт от всех болезней = Образование+Кадры+Неформальная движуха
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/TguVA-qTrmc?t=8932" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/TguVA-qTrmc?start=8932" frameborder="0" allowfullscreen></iframe>
