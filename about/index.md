@@ -18,4 +18,4 @@ comments: true
 так и на темы связанные с общей профессиональной деятельностью участников.
 Доклады на 20-30 минут. Участие &mdash; бесплатное.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/TguVA-qTrmc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/TguVA-qTrmc?start=0" frameborder="0" allowfullscreen></iframe>
