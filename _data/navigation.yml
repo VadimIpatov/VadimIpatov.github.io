@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title: 21/11/2015
+- title: 23/01/2016
   url: /
 
 - title: О проекте
@@ -12,8 +12,8 @@
 - title: Люди
   url: /people/
 
-#- title: Встречи
-#  url: /events/
+- title: Встречи
+  url: /events/
 
 - title: Регистрация
   url: /register/
