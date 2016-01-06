@@ -1,9 +1,9 @@
 meetup0:
   date: 2015-11-21
-  info: "Первый Костромской backend-meetup"
-  finished: false
+  info: "Первый Костромской backend-meetup прошёл 21 ноября 2015 года. В программе было 4 доклада. Мероприятие посетило более 60 человек: специалисты из Костромы и Ярославля."
+  finished: true
 
 meetup1:
   date: 2016-01-23
-  finished: true
-  info: ""
+  finished: false
+  info: "Костромской backend-meetup #1"
