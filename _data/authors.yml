@@ -36,3 +36,16 @@ chernyatiev:
   avatar: chernyatiev.jpg
   company: ИБЭС, Кострома
   vk: achernyatyev
+
+aleksandrov:
+  name: Дмитрий Александров
+  avatar: aleksandrov.jpg
+  company: Тензор, Ярославль
+  vk: id28789050
+  bio: "Ведущий системный администратор ЦОД компании Тензор."
+
+bargan:
+  name: Алексей Барган
+  avatar: bargan.jpg
+  company: Тензор, Кострома
+  bio: "Руководитель Костромского филиала разработки компании Тензор."
