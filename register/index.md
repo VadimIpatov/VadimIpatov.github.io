@@ -14,14 +14,25 @@ comments: true
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='http://kosbackend.hub44.net/register/thank-you.html' />
   <!-- all your input fields here.... -->
+  <p>
   <label for='name'>Имя</label>
   <input type='text' name='name' id='name' required=""/>
+  </p>
+  <p>
   <label for='surname'>Фамилия</label>
   <input type='text' name='surname' id='surname' required=""/>
+  </p>
+  <p>
   <label for='email'>E-mail для связи</label>
   <input type='email' name='email' id='email' required="" />
+  </p>
+  <p>
   <label for='work'>Место работы/учебы</label>
   <input type='text' name='work' id='work' required="" />
+  </p>
+  <p>
+  <input type='checkbox' name='afterparty' id='afterparty' /> <b>Пойду на afterparty</b>
+  </p>
   <p>
   	<input type='submit' value='Подать заявку' class='btn' />
   </p>
