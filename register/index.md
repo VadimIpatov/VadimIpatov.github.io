@@ -10,7 +10,7 @@ comments: true
 
 <form action="http://getsimpleform.com/messages?form_api_token=64423d75fb4981e03fc6718d53dbda5e" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='http://kosbackend.hub44.net/register/thank-you.html' />
+  <input type='hidden' name='redirect_to' value='http://kosbackend.ru/register/thank-you.html' />
   <!-- all your input fields here.... -->
   <p>
   <label for='name'>Имя</label>
@@ -35,5 +35,5 @@ comments: true
   	<input type='submit' value='Подать заявку' class='btn' />
   </p>
   <br>
-  <p><a class="fa fa-calendar" href="webcal://kosbackend.hub44.net/register/kosbackend.ics"> Создать напоминание в календаре</a></p>
+  <p><a class="fa fa-calendar" href="webcal://kosbackend.ru/register/kosbackend.ics"> Создать напоминание в календаре</a></p>
 </form>

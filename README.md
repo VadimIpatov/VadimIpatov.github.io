@@ -4,4 +4,4 @@
 
 Регулярная встреча backend-разработчиков и системных администраторов, проходящая в г. Костроме.
 
-[http://kosbackend.hub44.net](http://kosbackend.hub44.net/)
+[http://kosbackend.ru](http://kosbackend.ru/)

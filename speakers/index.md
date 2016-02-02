@@ -10,7 +10,7 @@ comments: true
 
 <form action="http://getsimpleform.com/messages?form_api_token=64423d75fb4981e03fc6718d53dbda5e" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='http://kosbackend.hub44.net/speakers/thank-you.html' />
+  <input type='hidden' name='redirect_to' value='http://kosbackend.ru/speakers/thank-you.html' />
   <!-- all your input fields here.... -->
   <p>
   <label for='name'>Ваше имя</label>
