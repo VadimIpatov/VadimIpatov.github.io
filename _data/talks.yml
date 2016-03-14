@@ -5,5 +5,10 @@ meetup0:
 
 meetup1:
   date: 2016-01-23
+  finished: true
+  info: "В Костроме состоялась вторая встреча backend-разработчиков. 3 доклада, 45 человек и восстановленный клон ZX Spectrum'а :)"
+
+meetup2:
+  date: 2016-03-26
+  info: "Костромской backend-meetup #2"
   finished: false
-  info: "Костромской backend-meetup #1"
