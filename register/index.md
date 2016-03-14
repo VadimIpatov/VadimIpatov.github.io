@@ -28,6 +28,9 @@ comments: true
   <label for='work'>Место работы/учебы</label>
   <input type='text' name='work' id='work' required="" />
   </p>
+  <label for='position'>Должность</label>
+  <input type='text' name='position' id='position' required="" />
+  </p>
   <p>
   <input type='checkbox' name='afterparty' id='afterparty' /> <b>Пойду на afterparty</b>
   </p>
