@@ -6,7 +6,8 @@ vadimipatov:
   avatar: vadimipatov.jpg
   company: Тензор, Кострома
   vk: ipatov_vadim
-  bio: "Разработчик системы мониторинга sbis3mon в компании Тензор."
+  github: vadimipatov
+  bio: "Руководитель отдела разработки системы мониторинга sbis3mon в компании Тензор."
 
 dnska:
   name: Николай Дружинин
@@ -49,3 +50,25 @@ bargan:
   avatar: bargan.jpg
   company: Тензор, Кострома
   bio: "Руководитель Костромского филиала разработки компании Тензор."
+
+dshapkin:
+  name: Денис Шапкин
+  avatar: dshapkin.jpg
+  company: Интеро, Кострома
+  vk: joyfu1
+  bio: "Frontend-разработчик."
+
+syarkin:
+  name: Сергей Яркин
+  avatar: syarkin.jpg
+  company: Тензор, Ярославль
+  vk: yarkin
+  bio: "Разработчик отдела \"Балансировка нагрузки и HA\" в компании Тензор."
+
+vluss:
+  name: Владимир Лусс
+  avatar: vluss.jpg
+  company: Тензор, Кострома
+  vk: stainful
+  github: stainful
+  bio: "Разработчик системы мониторинга sbis3mon в компании Тензор."
