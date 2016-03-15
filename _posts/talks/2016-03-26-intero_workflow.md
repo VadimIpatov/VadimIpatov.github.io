@@ -9,7 +9,7 @@ tags: [workflow, development, git, jira]
 image:
   feature:
 talk: meetup2
-date: 2016-03-26T17:00:00+04:00
+date: 2016-03-26T18:00:00+04:00
 comments: true
 share: true
 announce: true
