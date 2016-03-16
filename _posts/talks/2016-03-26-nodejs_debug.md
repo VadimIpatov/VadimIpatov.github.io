@@ -1,6 +1,6 @@
 ---
 layout: talk
-title: "Отладка и профилирование nodejs приложений"
+title: "Отладка и профилирование node.js приложений"
 modified:
 categories: talks
 author: olegas
