@@ -42,7 +42,7 @@ comments: true
 Встречи проходят в конференц-зале отеля ["Golden Ring"][hotel-ring]{:target="_blank"} по адресу: г. Кострома, ул. Нижняя Дебря, д.104а.
 До отеля можно добраться на маршрутке №4. Маршрут от остановки общественного транспорта указан на карте.
 
-Контактные телефоны: +7 920 640-2860 Вадим, +7 910 660-2044 Николай
+Контакты: +7 920 640-2860 <a href="mailto:euphoria.vi@gmail.com">Вадим</a>, +7 910 660-2044 <a href="mailto:n.druzhinin@it-kostroma.ru ">Николай</a>
 
 <script type="text/javascript" charset="utf-8" src="//api-maps.yandex.ru/services/constructor/1.0/js/?sid=D_FAZaSMO4OggLeG6imnrClLom5cO5Ww&height=450"></script>
 
