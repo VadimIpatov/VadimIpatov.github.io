@@ -21,5 +21,6 @@ slides:
 
 * Postmortem debugging. Как понять почему все сломалось
 * Как найти memory leak, в том числе и не в v8 heap
-* Как найти боттлнеки не повлияв на производительность
+* Как найти боттлнеки, не повлияв на производительность
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/sc32UtJMnTw" frameborder="0" allowfullscreen></iframe>
