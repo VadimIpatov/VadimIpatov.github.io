@@ -11,4 +11,9 @@ meetup1:
 meetup2:
   date: 2016-03-26
   info: "Костромской backend-meetup #2"
+  finished: true
+
+meetup3:
+  date: 2016-05-28
+  info: "Костромской backend-meetup #3"
   finished: false
