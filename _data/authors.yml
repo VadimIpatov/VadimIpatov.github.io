@@ -72,3 +72,17 @@ vluss:
   vk: stainful
   github: stainful
   bio: "Разработчик системы мониторинга sbis3mon в компании Тензор."
+
+vprotasov:
+  name: Владимир Протасов
+  avatar: vprotasov.jpg
+  company: Parallels, Москва
+  vk: eoranged
+  github: eoranged
+  bio: "Senior Software Developer, Parallels"
+
+vkorzhev:
+  name: Владимир Коржев
+  avatar: vkorzhev.jpg
+  company: Тензор, Кострома
+  bio: "Разработчик системы мониторинга sbis3mon в компании Тензор."
