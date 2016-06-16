@@ -19,3 +19,5 @@ slides:
 
 В этом докладе я расскажу как повысить качество и читаемость кода на собственном примере.
 Будем использовать: тесты, code coverage, git хуки, статический анализ кода, непрерывную интеграцию
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/2WgyMS5OaRw" frameborder="0" allowfullscreen></iframe>
