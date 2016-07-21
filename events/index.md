@@ -5,7 +5,7 @@ comments: true
 ---
 
 <div>
-{% for data in site.data.talks %}
+{% for data in site.data.talks reversed %}
     {% assign meetupid = data[0] %}
     {% assign meetup = data[1] %}
     
