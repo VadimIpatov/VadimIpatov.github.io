@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 30 июля 2016 — АйТишники на каникулах
+title: 30 июля 2016 — kosbackend на каникулах
 excerpt: 
 comments: true
 ---
