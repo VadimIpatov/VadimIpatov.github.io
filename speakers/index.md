@@ -8,7 +8,7 @@ comments: true
 Дайте нам знать!
 Мы всегда рады видеть новых людей и слушать интересные доклады.
 
-<form action="http://getsimpleform.com/messages?form_api_token=64423d75fb4981e03fc6718d53dbda5e" method="post">
+<form action="//getsimpleform.com/messages?form_api_token=64423d75fb4981e03fc6718d53dbda5e" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='http://kosbackend.ru/speakers/thank-you.html' />
   <!-- all your input fields here.... -->

@@ -8,7 +8,7 @@ comments: true
 Это позволит нам лучше спланировать встречу, узнать наших гостей и в будущем подготовить больше интересных докладов.
 
 
-<form action="http://getsimpleform.com/messages?form_api_token=64423d75fb4981e03fc6718d53dbda5e" method="post">
+<form action="//getsimpleform.com/messages?form_api_token=64423d75fb4981e03fc6718d53dbda5e" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='http://kosbackend.ru/register/thank-you.html' />
   <!-- all your input fields here.... -->
