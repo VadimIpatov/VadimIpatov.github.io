@@ -17,7 +17,7 @@
 {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
 <link rel="canonical" href="{{ canonical }}">
 <link href="{{ site.url }}/feed.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
-{% if site.owner.google.plus %}<link rel="author" href="http://plus.google.com/+{{ site.owner.google.plus }}?rel=author">{% endif %}
+{% if site.owner.google.plus %}<link rel="author" href="//plus.google.com/+{{ site.owner.google.plus }}?rel=author">{% endif %}
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
@@ -28,7 +28,7 @@
 <link rel="stylesheet" href="{{ site.url }}/assets/css/main.css">
 <!-- Webfonts -->
 <script src="//use.edgefonts.net/source-sans-pro:n4;source-code-pro:n4,n7.js"></script>
-<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,700,300,600,800&subset=cyrillic,latin' rel='stylesheet' type='text/css'>
+<link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,700,300,600,800&subset=cyrillic,latin" rel="stylesheet" type="text/css">
 <meta http-equiv="cleartype" content="on">
 
 <!-- HTML5 Shiv and Media Query Support -->
