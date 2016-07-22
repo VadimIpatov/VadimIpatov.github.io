@@ -57,7 +57,7 @@ comments: true
 Автобусы и маршрутки: 2, 50, 57, 66.<br>
 Троллейбус: 3 и 4.<br>
 
-![Карта проезда](http://fotorama.su/images/map-site.jpg)
+![Карта проезда](/images/fotorama-map.jpg)
 
 *Контакты:* +7 920 640-2860 <a href="mailto:euphoria.vi@gmail.com">Вадим</a>, +7 910 660-2044 <a href="mailto:n.druzhinin@it-kostroma.ru ">Николай</a>
 
