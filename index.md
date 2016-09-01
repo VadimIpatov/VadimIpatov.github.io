@@ -1,14 +1,9 @@
 ---
 layout: page
-title: 30 июля 2016 — kosbackend на каникулах
-excerpt: 
+title: 1 октября 2016
+excerpt:
 comments: true
 ---
-
-Лето, солнце, пляж… митап. Да-да-да, мы решили не расслабляться и не терять темпа.
-Очередной митап будет по расписанию. Однако, в этот раз, сделав поправку на летнее настроение,
-формат митапа немного изменится.
-
 
 Доклады
 -------
@@ -32,38 +27,28 @@ comments: true
 Когда
 -----
 
-Пятая встреча пройдёт в **субботу**, 30 июля 2016 в 15:00.
-На мероприятие отведено приблизительно 2 часа.
-А после докладов состоится after-party, где, по традиции, можно будет пообщаться на свободные темы — не расходитесь :)
+Шестая встреча пройдёт в **субботу**, 1 октября 2016 в 15:00.
+На мероприятие отведено приблизительно 3 часа.
+Между докладами запланирован 10-15 минутный кофе-брейк, чтобы вы могли перекусить.
+А после докладов состоится after-party, где можно будет пообщаться на свободные темы — не расходитесь :)
 
-Регистрация
------------
-
-Обратите внимание, что в этот раз количество мест ограничено 20-ю участниками. Пожалуйста, [зарегистрируйтесь][register].
+Чтобы мы могли оценить количество участников, пожалуйста, [зарегистрируйтесь][register].
 
 <p><a class="fa fa-calendar" href="webcal://kosbackend.ru/register/kosbackend.ics"> Создать напоминание в календаре</a></p>
 
 Где
 ---
 
-Встреча пройдёт в студии ["FOTORAMA"][fotorama]{:target="_blank"} по адресу: г. Кострома, ул. Ерохова, д.3а, 2 этаж.<br>
-Это большое здание из белого кирпича, рядом с ТЭЦ-1.
-После того, как зайдете в ворота идите налево. Заходите в единственную дверь и поднимайтесь
-на второй этаж. Далее направо, до конца по коридору, последняя дверь налево, соседний офис с Теле2.
-Пожалуйста, не паркуйтесь близко к Ж/Д путям — они действующие. А поезд умеет очень громко гудеть :)
+Встреча пройдёт в конференц-зале ["Luxuria"][luxuria]{:target="_blank"} по адресу: г. Кострома, ул. Чайковского, 9б.
+Маршрут от остановки общественного транспорта указан на карте.
 
-*Как добраться на общественном транспорте?*<br>
-Остановка ТЭЦ-1.<br>
-Автобусы и маршрутки: 2, 50, 57, 66.<br>
-Троллейбус: 3 и 4.<br>
+Контакты: +7-920-640-2860 <a href="mailto:euphoria.vi@gmail.com">Вадим</a>, +7-910-660-2044 <a href="mailto:n.druzhinin@it-kostroma.ru ">Николай</a>
 
-![Карта проезда](/images/fotorama-map.jpg)
-
-*Контакты:* +7 920 640-2860 <a href="mailto:euphoria.vi@gmail.com">Вадим</a>, +7 910 660-2044 <a href="mailto:n.druzhinin@it-kostroma.ru ">Николай</a>
+<script type="text/javascript" charset="utf-8" src="//api-maps.yandex.ru/services/constructor/1.0/js/?sid=EutyqivzYyzV0mL5hL4oeefkJCJPNrHt&height=450"></script>
 
 <!--
 <ul class="post-list">
-{% for post in site.posts limit:10 %} 
+{% for post in site.posts limit:10 %}
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
 {% endfor %}
 </ul>
@@ -72,7 +57,7 @@ comments: true
 [register]: /register/
 [tensor]: http://tensor.ru/
 [hotel-ring]: http://www.kostroma-goldenring.ru/contacts/
-[fotorama]: http://fotorama.su/contacts
+[luxuria]: http://www.conferencelux.ru/location-map/index.aspx
 [speakers]: /speakers/
 [vote-oleg]: /blog/generators-or-gpu/
 [vote-pavel]: /blog/derby-or-loadspeed/

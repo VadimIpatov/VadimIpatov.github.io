@@ -3,8 +3,8 @@
 title: Kostroma Backend Meetup
 locale: ru_RU
 description: Место встречи Костромских backend-разработчиков и системных администраторов
-logo: site-logo-vacation.png
-search: true
+logo: site-logo.png
+search: false
 url: http://kosbackend.ru/
 url: http://vadimipatov.github.io/
 url: http://localhost:4000/
