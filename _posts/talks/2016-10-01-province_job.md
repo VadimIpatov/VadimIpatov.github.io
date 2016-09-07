@@ -1,0 +1,22 @@
+---
+layout: talk
+title: "RabbitMQ. На сколько ценен мех и вкусно мясо?"
+modified:
+categories: talks
+author: syarkin
+excerpt:
+tags: [rabbitmq]
+image:
+  feature:
+talk: meetup5
+date: 2016-10-01T17:00:00+04:00
+comments: true
+share: true
+announce: true
+video:
+slides: 
+---
+
+В рамках доклада мы рассмотрим, что из себя представляет RabbitMQ, какие возможности есть
+из коробки, чего можно добавить с помощью плагинов. Так же я расскажу о нашей системе уведомления
+пользователей СБИС, построенной на RabbitMQ, на какие грабли наступили и какие планы на будущее.
