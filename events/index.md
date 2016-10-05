@@ -41,6 +41,14 @@ comments: true
     <ul class="post-list">
         {{ talklist }}
     </ul>
+    {% if meetup.photos %}
+    <div class="fotorama" data-fit="scaledown" data-width="700" data-maxwidth="100%" data-ratio="3/2">
+    {% assign photospath = 'images/reports/' | append: meetupid %}
+    {% for image in site.static_files %}
+        {% if image.path contains photospath %}<img src="{{image.path}}" />{% endif %}
+    {% endfor %}
+    </div>
+    {% endif %}
     {% endif %}
     
     {% endif %}
