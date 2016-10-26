@@ -18,3 +18,5 @@ slides:
 ---
 
 Ректор КГУ расскажет о ситуации с развитием ИТ образования в опорном ВУЗе и о перспективах ВУЗа в целом.
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/QsQGtkysbCU" frameborder="0" allowfullscreen></iframe>

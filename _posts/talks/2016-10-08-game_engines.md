@@ -22,3 +22,4 @@ slides:
 На примере Directx 12 мы разберем, как с помощью новых графических API можно снизить
 нагрузку на CPU и обеспечить масштабирование рендеринга под многоядерные процессоры.
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/Tl3emsiqiKE" frameborder="0" allowfullscreen></iframe>
