@@ -13,7 +13,7 @@ comments: true
       {% if author.avatar contains 'http' %}
       <img src="{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo"></a>
       {% else %}
-      <img src="{{ site.url }}/images/{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo"></a>
+      <img src="{{ site.url }}/images/{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
       {% endif %}
       {% if author.twitter %}
       <span class="social-share-twitter">

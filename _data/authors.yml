@@ -15,7 +15,7 @@ dnska:
   avatar: dnska.jpg
   company: IT-Pro, Кострома
   vk: id22519100
-  bio: "Технический директор компании ИТ-Профессионал."
+  bio: "Технический директор компании ИТ-Профессионал"
 
 olegas:
   name: Олег Елифантьев
@@ -24,7 +24,7 @@ olegas:
   company: Тензор, Ярославль
   twitter: oelifantiev
   github: Olegas
-  bio: "Разработчик ядра веб-платформы в компании Тензор."
+  bio: "Разработчик ядра веб-платформы в компании Тензор"
 
 lexaguskov:
   name: Алексей Гуськов
@@ -43,27 +43,27 @@ aleksandrov:
   avatar: aleksandrov.jpg
   company: Тензор, Ярославль
   vk: id28789050
-  bio: "Ведущий системный администратор ЦОД компании Тензор."
+  bio: "Ведущий системный администратор ЦОД компании Тензор"
 
 bargan:
   name: Алексей Барган
   avatar: bargan.jpg
   company: Тензор, Кострома
-  bio: "Руководитель Костромского филиала разработки компании Тензор."
+  bio: "Руководитель Костромского филиала разработки компании Тензор"
 
 dshapkin:
   name: Денис Шапкин
   avatar: dshapkin.jpg
   company: Интеро, Кострома
   vk: joyfu1
-  bio: "Frontend-разработчик."
+  bio: "Frontend-разработчик"
 
 syarkin:
   name: Сергей Яркин
   avatar: syarkin.jpg
   company: Тензор, Ярославль
   vk: yarkin
-  bio: "Разработчик отдела \"Балансировка нагрузки и HA\" в компании Тензор."
+  bio: "Разработчик отдела \"Балансировка нагрузки и HA\" в компании Тензор"
 
 vluss:
   name: Владимир Лусс
@@ -71,7 +71,7 @@ vluss:
   company: Тензор, Кострома
   vk: stainful
   github: stainful
-  bio: "Разработчик системы мониторинга sbis3mon в компании Тензор."
+  bio: "Разработчик системы мониторинга sbis3mon в компании Тензор"
 
 vprotasov:
   name: Владимир Протасов
@@ -87,23 +87,43 @@ vkorzhev:
   company: Тензор, Кострома
   vk: storm_trooper
   github: korzhev
-  bio: "Разработчик системы мониторинга sbis3mon в компании Тензор."
+  bio: "Разработчик системы мониторинга sbis3mon в компании Тензор"
 
 vkomarov:
   name: Владимир Комаров
   avatar: vkomarov.jpg
   company: Тензор, Кострома
   twitter: VrKomarov
-  bio: "Разработчик в компании Тензор."
+  bio: "Разработчик в компании Тензор"
 
 imodenov:
   name: Иван Моденов
   avatar: imodenov.jpg
   company: Kaspersky Lab, Москва
-  bio: Senior Software Developer Engineer, Kaspersky Lab
+  bio: "Senior Software Developer Engineer, Kaspersky Lab"
 
 anaumov:
   name: Александр Наумов
   avatar: anaumov.jpg
   company: Костромской Государственный Университет
-  bio: Ректор Костромского Государственного Университета
+  bio: "Ректор Костромского Государственного Университета"
+
+apopov:
+  name: Александр Попов
+  avatar: apopov.jpg
+  company: Тензор, Кострома
+  bio: "Разработчик в компании Тензор"
+
+abykov:
+  name: Алексей Быков
+  avatar: abykov.jpg
+  company: Тензор, Кострома
+  vk: alexeydevil
+  bio: "Разработчик в компании Тензор"
+
+eboytsov:
+  name: Евгений Бойцов
+  avatar: eboytsov.jpg
+  company: Тензор, Ярославль
+  vk: id5486720
+  bio: "Руководитель направления серверного фреймворка"

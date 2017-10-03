@@ -12,7 +12,7 @@ talk: meetup5
 date: 2016-10-08T18:00:00+04:00
 comments: true
 share: true
-announce: true
+announce:
 video:
 slides: 
 ---
