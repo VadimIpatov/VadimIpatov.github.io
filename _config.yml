@@ -57,3 +57,5 @@ owner:
     #ad-slot: 4947240443
   bing-verify:
   yandex-verify: 455ee2f525bd2407
+
+theme: jekyll-theme-minimal
